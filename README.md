@@ -2,6 +2,10 @@
 
 **ФИ:** Лузина Марина Алексеевна
 
+## Ссылка на задание
+
+https://github.com/Hexlet/ru-test-assignments/blob/main/frontend/kode/trainee-test-frontend.md
+
 ## Декомпозиция задания
 
 1. Инициализация проекта Vite + React + TypeScript.
@@ -16,3 +20,13 @@
 10. Реализация страницы деталей пользователя по маршруту /user/:id.
 11. Адаптивные стили через styled-components.
 12. Финальная проверка и пуш в main.
+
+## Как запустить
+
+Требуется Node.js 18+ и Git.
+
+```bash
+git clone https://github.com/hyacluter/kode-intership-2025-react.git
+cd kode-intership-2025-react
+npm install
+npm run dev
