@@ -30,3 +30,16 @@ git clone https://github.com/hyacluter/kode-intership-2025-react.git
 cd kode-intership-2025-react
 npm install
 npm run dev
+```
+
+## Структура
+
+src/
+  api/            — запросы к API
+  components/     — TopBar, SortModal, UserCard
+  constants/      — справочник департаментов
+  hooks/          — useSessionState
+  pages/          — MainPage, UserPage
+  types/          — типы User, SortType
+  utils/          — фильтрация, сортировка, группировка
+
